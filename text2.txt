@@ -1,0 +1,4 @@
+text file for my branch 2
+
+$ git checkout -b mybranch2(to creat and shift to new branch)
+
